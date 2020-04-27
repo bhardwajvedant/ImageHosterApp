@@ -23,7 +23,7 @@ public class PasswordCryptographyProvider {
 
     /**
      * This method generates Salt and hashed Password
-     *
+     *  
      * @param password char array.
      * @return String array with [0] encoded salt [1] hashed password.
      */
