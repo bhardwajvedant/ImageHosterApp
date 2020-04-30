@@ -37,3 +37,4 @@ public class UnauthorizedException extends Exception {
         return errorMessage;
     }
 }
+
